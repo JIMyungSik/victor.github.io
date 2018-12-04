@@ -10,7 +10,7 @@ url: "https://jimyungsik.github.io/victor.github.io/"
 baseurl: "/jimyungsik.github.io/victor.github.io"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /victor.github.io/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: https://jimyungsik.github.io/victor.github.io/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  Victor
