@@ -7,7 +7,7 @@ url: "https://jimyungsik.github.io/victor.github.io/"
 
 
 # Secondary Parameters
-baseurl: "/jimyungsik.github.io/victor.github.io"
+baseurl: "/victor.github.io"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: https://jimyungsik.github.io/victor.github.io/img/logos/Project-Pages-New-Logo-Inverted.png
@@ -15,7 +15,7 @@ logo: https://jimyungsik.github.io/victor.github.io/img/logos/Project-Pages-New-
 # Tertiary Parameters
 github_username:  Victor
 project_repository: victor.github.io
-disqus_shortname: project-pages
+disqus_shortname: victor.github.io
 g-analytics: UA-75881392-1
 altmetric: true
 
