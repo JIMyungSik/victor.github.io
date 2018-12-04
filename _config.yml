@@ -13,8 +13,8 @@ headercolor: "#FFFFFF"
 logo: /victor.github.io/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  victor.github.io
-project_repository: project-pages
+github_username:  Victor
+project_repository: victor.github.io
 disqus_shortname: project-pages
 g-analytics: UA-75881392-1
 altmetric: true
@@ -41,7 +41,7 @@ defaults:
 # Prose Settings
 prose:
   ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.png','_data/*.json','LICENSES.md','README.md','colorscheme.scss','members.html','mentions.html','index.html']
-  siteurl: 'http://victor.github.io.github.io/project-pages/'
+  siteurl: 'https://jimyungsik.github.io/victor.github.io/'
   ispp: true
   media: 'img'
   metadata:
