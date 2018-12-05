@@ -1,13 +1,13 @@
 # Site settings
 title: Victor's Web
-description: "An Integrated Scientific Blogging Template"
+description: "Victor's History"
 url: "https://jimyungsik.github.io"
 
 
 
 
 # Secondary Parameters
-baseurl: "/victor.github.io/"
+baseurl: "/victor.github.io"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /victor.github.io/img/logos/Project-Pages-New-Logo-Inverted.png
